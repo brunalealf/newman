@@ -1,4 +1,4 @@
-# Test de API RestAssured
+# Test de API
 
 Este é o projeto de Testes de API automatizado.
 
